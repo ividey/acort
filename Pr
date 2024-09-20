@@ -1,0 +1,108 @@
+
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lo Mejor  De Mi Only</title><meta name="description" content="Aqui encontraras mucho de mi galería completamente gratis"><meta property="og:title" content="Lo Mejor  De Mi Only" /><meta property="og:description" content="Aqui encontraras mucho de mi galería completamente gratis" /><meta property="og:image" content="https://scontent.fcuz1-1.fna.fbcdn.net/v/t39.30808-6/305999862_615557786825590_97953420715414961_n.jpg?stp=dst-jpg_p526x296&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WwALRMLVZBsAX_c6FdE&_nc_ht=scontent.fcuz1-1.fna&oh=00_AfBgX5f8zaEwGWkHcfwGAj7ukEkxROhRx10y0l8SwEoLXQ&oe=65481522" /><meta property="og:url" content="//solteritas.xyz/Prin" />    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    <meta name="referrer" content="no-referrer"/>
+</head>
+
+<body>
+
+    <main>
+        <div class="container">
+    <div class="span-container">
+        <span class="one"></span>
+        <span class="two"></span>
+        <span class="three"></span>
+        <span class="four"></span>
+    </div>
+</div>
+
+
+<style>
+    .container {
+        width: 100%;
+        height: 100vh;
+        position: relative;
+        background: #0C0404;
+    }
+
+    .span-container {
+        width: 100px;
+        height: 100px;
+        transform: translate(-50% -50%);
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        margin-left: -50px;
+    }
+
+    span {
+        display: block;
+        position: absolute;
+        width: 40%;
+        height: 40%;
+        border-radius: 50%;
+        animation: speed 2s infinite ease-in-out;
+    }
+
+    .one {
+        background: #c9ba12;
+        animation-delay: 1.5s;
+    }
+
+    .two {
+        background: #a11cc7;
+        animation-delay: 1s;
+    }
+
+    .three {
+        background: #237ead;
+        animation-delay: 0.5s;
+    }
+
+    .four {
+        background: #e0bcbc;
+    }
+
+    @keyframes speed {
+        0% {
+            transform: translate(0%);
+            border-radius: 50%;
+        }
+
+        25% {
+            transform: translate(150%) scale(0.5);
+            border-radius: 0%;
+        }
+
+        50% {
+            transform: translate(150%, 150%);
+            border-radius: 50%;
+        }
+
+        75% {
+            transform: translate(0, 150%) scale(0.5);
+            border-radius: 0%;
+        }
+    }
+</style>
+</div>
+
+
+<script type="text/javascript">
+    function Redirect() {
+        window.location = "https://www.cpmrevenuegate.com/w09tuu16?key=a3ca64aeed2a63ad6977d8be1fed4526";
+    }
+    setTimeout('Redirect()', 1000);
+</script>    </main>
+
+</body>
+</html>
